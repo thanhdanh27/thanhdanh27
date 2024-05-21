@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/f5/2d/c9/f52dc984cb4b1a269ca4da7389618dd4.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thanh Danh</h1>
 <h3 align="center">A passionate frontend developer from VietNamese</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhdanh27&label=Profile%20views&color=0e75b6&style=flat" alt="thanhdanh27" /> </p>
